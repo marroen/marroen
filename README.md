@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @marroen
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning OpenCV.
 - 📫 How to reach me: linkedin.com/ronningmartin
