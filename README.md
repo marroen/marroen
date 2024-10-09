@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @marroen
-- 🌱 I’m currently learning OpenCV.
+- 🌱 I’m currently focusing on linear algebra and geometry.
 - 📫 How to reach me: linkedin.com/ronningmartin
