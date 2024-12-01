@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @marroen
-- 🌱 I’m currently focusing on linear algebra and computational geometry.
+- 🌱 I’m currently focusing on computer graphics and computational geometry.
 - 📫 How to reach me: linkedin.com/ronningmartin
