@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @marroen
-- 🌱 I’m currently focusing on computer graphics and computational geometry.
+- 🌱 I’m currently focusing on computer vision and AR/VR.
 - 📫 How to reach me: linkedin.com/ronningmartin
