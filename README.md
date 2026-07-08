@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @marroen
-- 🌱 I’m currently focusing on computer vision and XR.
+- 🌱 I’m currently focusing on Svelte and Unity.
 - 📫 How to reach me: linkedin.com/ronningmartin
