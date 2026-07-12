@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @marroen
 - 🌱 I’m currently focusing on Svelte and Unity.
-- 📫 How to reach me: linkedin.com/ronningmartin
+- 📫 How to reach me: linkedin.com/in/ronningmartin
