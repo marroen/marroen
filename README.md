@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @marroen
-- 🌱 I’m currently focusing on data science concepts and Blender.
+- 🌱 I’m currently focusing on biomechanics and OpenSim.
 - 📫 How to reach me: linkedin.com/in/ronningmartin
